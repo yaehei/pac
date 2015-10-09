@@ -4708,6 +4708,7 @@
         ]
     ];
         var safeDomains = {
+        "github.com": 1,	
         "115.com": 1,
         "123u.com": 1,
         "126.com": 1,
