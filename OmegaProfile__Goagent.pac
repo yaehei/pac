@@ -12,7 +12,6 @@ var FindProxyForURL = function(init, profiles) {
     "+\u81ea\u52a8\u5207\u6362Goagent": function(url, host, scheme) {
         "use strict";
         if (/(?:^|\.)html5porn\.net$/.test(host)) return "+GoAgent";
-        if (/(?:^|\.)alexa\.com$/.test(host)) return "+socks";
         if (/(?:^|\.)porneq\.com$/.test(host)) return "+GoAgent";
         if (/(?:^|\.)hdporn1080\.net$/.test(host)) return "+GoAgent";
         if (/(?:^|\.)hdporns4u\.com$/.test(host)) return "+GoAgent";
