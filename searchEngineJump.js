@@ -7,7 +7,7 @@
 // @lastUpdated    2016-5-2
 // @grant          none
 // @run-at         document-start
-// @namespace      https://greasyfork.org/zh-CN/users/35510-rayjing
+// @namespace      https://github.com/yaehei/pac
 // @homepage       https://greasyfork.org/zh-CN/users/35510-rayjing
 // @include        *google*
 // @include        *baidu.com*
