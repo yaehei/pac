@@ -3,9 +3,6 @@
 // @author         NLF&锐经(修改)
 // @description    方便的在各个搜索引擎之间跳转
 // @version        4.0.5.0
-// @created        2011-7-2
-// @lastUpdated    2016-5-2
-// @grant          none
 // @run-at         document-start
 // @namespace      https://github.com/yaehei/pac
 // @homepage       https://github.com/yaehei/pac
