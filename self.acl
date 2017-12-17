@@ -16,6 +16,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)javhihi\.com$
 (^|\.)mcdn4\.com$
 (^|\.)fastly\.com$
 (^|\.)gameloft\.com$
