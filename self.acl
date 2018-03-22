@@ -16,6 +16,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)porn\.com$
 (^|\.)llnwd\.in$
 (^|\.)llnwd\.net$
 (^|\.)javhihi\.com$
